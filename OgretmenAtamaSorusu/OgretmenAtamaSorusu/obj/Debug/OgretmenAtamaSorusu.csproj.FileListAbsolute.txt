@@ -1,0 +1,8 @@
+C:\Users\CASPER\OneDrive\Masaüstü\OgretmenAtamaSorusu\OgretmenAtamaSorusu\bin\Debug\OgretmenAtamaSorusu.exe.config
+C:\Users\CASPER\OneDrive\Masaüstü\OgretmenAtamaSorusu\OgretmenAtamaSorusu\bin\Debug\OgretmenAtamaSorusu.exe
+C:\Users\CASPER\OneDrive\Masaüstü\OgretmenAtamaSorusu\OgretmenAtamaSorusu\bin\Debug\OgretmenAtamaSorusu.pdb
+C:\Users\CASPER\OneDrive\Masaüstü\OgretmenAtamaSorusu\OgretmenAtamaSorusu\obj\Debug\OgretmenAtamaSorusu.csproj.AssemblyReference.cache
+C:\Users\CASPER\OneDrive\Masaüstü\OgretmenAtamaSorusu\OgretmenAtamaSorusu\obj\Debug\OgretmenAtamaSorusu.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\OneDrive\Masaüstü\OgretmenAtamaSorusu\OgretmenAtamaSorusu\obj\Debug\OgretmenAtamaSorusu.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\OneDrive\Masaüstü\OgretmenAtamaSorusu\OgretmenAtamaSorusu\obj\Debug\OgretmenAtamaSorusu.exe
+C:\Users\CASPER\OneDrive\Masaüstü\OgretmenAtamaSorusu\OgretmenAtamaSorusu\obj\Debug\OgretmenAtamaSorusu.pdb
